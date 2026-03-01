@@ -181,7 +181,7 @@ const Navbar = () => {
         <div className="container mx-auto flex items-center justify-end px-4 py-1.5 gap-4">
           {/* Control Panel Link */}
           <a
-            href="https://vercel.com/usl24oms-projects/royalfriendstrading"
+            href="https://vercel.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 text-xs font-medium text-white/90 hover:text-white transition-colors"
